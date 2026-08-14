@@ -1,7 +1,7 @@
 # Welcome to the course
 
 **Start here.** To join, open a
-**[Join course](https://github.com/Hertie-School-Maths-Data-Science-f2026/welcome/issues/new/choose)** issue in this repo
+**[Join course](https://github.com/hertie-maths-data-science-f2026/welcome/issues/new/choose)** issue in this repo
 (the *New issue* button) and paste the enrolment code the teaching team emailed to your
 Hertie address.
 
